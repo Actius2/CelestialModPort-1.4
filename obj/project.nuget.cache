@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VRIh3+QcVeGdBoPLLUirUb+hoIekGrs78hsS0gkjXbv4o7VsjyJa9Kfh1BiEqOKWOsGczIWoAJWT0AdRStHgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Netze\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CelestialMod\\CelestialMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Netze\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
