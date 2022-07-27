@@ -25,8 +25,8 @@ namespace CelestialMod.Content.Items.Weapons.Ranged
 			Item.rare = ItemRarityID.Green; // The color that the item's name will be in-game.
 
 			// Use Properties
-			Item.useTime = 4; // The item's use time in ticks (60 ticks == 1 second.)
-			Item.useAnimation = 4; // The length of the item's use animation in ticks (60 ticks == 1 second.)
+			Item.useTime = 12; // The item's use time in ticks (60 ticks == 1 second.)
+			Item.useAnimation = 12; // The length of the item's use animation in ticks (60 ticks == 1 second.)
 			Item.useStyle = ItemUseStyleID.Shoot; // How you use the item (swinging, holding out, etc.)
 			Item.autoReuse = true; // Whether or not you can hold click to automatically use it again.
 

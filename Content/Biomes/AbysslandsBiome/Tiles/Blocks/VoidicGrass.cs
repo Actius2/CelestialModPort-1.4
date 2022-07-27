@@ -21,20 +21,20 @@ namespace CelestialMod.Content.Biomes.AbysslandsBiome.Tiles.Blocks
 			AddMapEntry(new Color(0, 191, 255));
 			ItemDrop = ItemType<Content.Biomes.AbysslandsBiome.Items.Placeable.VoidicGrassBlock>();
 		}
-		
-		public override void PostDraw(int i, int j, SpriteBatch spriteBatch)
-        {
-            Tile tile = Main.tile[i, j];
-            Vector2 zero = new(Main.offScreenRange, Main.offScreenRange);
-            if (Main.drawToScreen)
-            {
-                zero = Vector2.Zero;
-            }
 
-			Texture2D Glowmask2 = ModContent.Request<Texture2D>("CelestialMod/Content/Glowmasks/TempleTile_Glow").Value;
+		public override void PostDraw(int i, int j, SpriteBatch spriteBatch)
+		{
+			Tile tile = Main.tile[i, j];
+			Vector2 zero = new(Main.offScreenRange, Main.offScreenRange);
+			if (Main.drawToScreen)
+			{
+				zero = Vector2.Zero;
+			}
+
+			Texture2D Glowmask2 = ModContent.Request<Texture2D>("CelestialMod/Content/Glowmasks/VoidicGrass_Glow").Value;
 			int height = tile.TileFrameY == 36 ? 18 : 16;
-            Main.spriteBatch.Draw(Glowmask2, new Vector2((i * 16) - (int)Main.screenPosition.X, (j * 16) - (int)Main.screenPosition.Y) + zero, new Rectangle(tile.TileFrameX, tile.TileFrameY, 16, height), Color.White, 0f, Vector2.Zero, 1f, SpriteEffects.None, 0f);
-        }
+			Main.spriteBatch.Draw(Glowmask2, new Vector2((i * 16) - (int)Main.screenPosition.X, (j * 16) - (int)Main.screenPosition.Y) + zero, new Rectangle(tile.TileFrameX, tile.TileFrameY, 16, height), Color.White, 0f, Vector2.Zero, 1f, SpriteEffects.None, 0f);
+		}
 
 		public static bool PlaceObject(int x, int y, int type, bool mute = false, int style = 0, int alternate = 0, int random = -1, int direction = -1)
 		{

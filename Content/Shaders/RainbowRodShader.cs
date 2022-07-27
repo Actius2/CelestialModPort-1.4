@@ -27,8 +27,8 @@ public struct Waves
 
 	private Color StripColors(float progressOnStrip)
 	{
-		Color value = Color.SteelBlue;
-		Color result = Color.Lerp(Color.Blue, value, Utils.GetLerpValue(-0.2f, 0.5f, progressOnStrip, clamped: true)) * (1f - Utils.GetLerpValue(0f, 0.98f, progressOnStrip));
+		Color value = Color.Red;
+		Color result = Color.Lerp(Color.DarkRed, value, Utils.GetLerpValue(-0.2f, 0.5f, progressOnStrip, clamped: true)) * (1f - Utils.GetLerpValue(0f, 0.98f, progressOnStrip));
 
 		result.A = 0;
 		return result;

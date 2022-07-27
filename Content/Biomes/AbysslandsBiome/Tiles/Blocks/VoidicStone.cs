@@ -22,8 +22,8 @@ namespace CelestialMod.Content.Biomes.AbysslandsBiome.Tiles.Blocks
 			HitSound = SoundID.Tink;
 			Main.tileBlockLight[Type] = true;
 			Main.tileLighted[Type] = false;
-			Main.tileMerge[ModContent.TileType<CelestialRemnantsTempleTile>()][ModContent.TileType<VoidicGrass>()] = true;
-			Main.tileMerge[ModContent.TileType<CelestialRemnantsTempleTile>()][ModContent.TileType<VoidicMud>()] = true;
+			Main.tileMerge[ModContent.TileType<VoidicStone>()][ModContent.TileType<VoidicGrass>()] = true;
+			Main.tileMerge[ModContent.TileType<VoidicStone>()][ModContent.TileType<VoidicMud>()] = true;
 			Main.tileMergeDirt[Type] = true;
 			AddMapEntry(new Color(96, 96, 96));
 			ItemDrop = ItemType<Content.Biomes.AbysslandsBiome.Items.Placeable.VoidicStoneBlock>();

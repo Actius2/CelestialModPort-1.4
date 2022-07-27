@@ -1,3 +1,8 @@
+C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.csproj.AssemblyReference.cache
+C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.AssemblyInfoInputs.cache
+C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.AssemblyInfo.cs
+C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.csproj.CoreCompileInputs.cache
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\bin\Debug\net6.0\CelestialMod.deps.json
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\bin\Debug\net6.0\CelestialMod.dll
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\bin\Debug\net6.0\CelestialMod.pdb
@@ -158,11 +163,6 @@ C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\Celest
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.csproj.AssemblyReference.cache
-C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.AssemblyInfoInputs.cache
-C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.AssemblyInfo.cs
-C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.csproj.CoreCompileInputs.cache
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.csproj.CopyComplete
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\CelestialMod.dll
 C:\Users\Netze\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CelestialMod\obj\Debug\net6.0\refint\CelestialMod.dll
